@@ -1,2 +1,2 @@
-# test
-test a new repository
+# include "pwm.h"
+void pwm_init()
